@@ -21,10 +21,13 @@ How to install it?
 4. Open up an adb shell
 
 5. Enter the following commands:
-```shell@android:/ # su
+
+```
+shell@android:/ # su
 shell@android:/ # mount -o rw,remount /system
 shell@android:/ # cp /storage/sdcard0/SilentSMS-signed.apk /system/app/SilentSMS-signed.apk
-shell@android:/ # reboot```
+shell@android:/ # reboot
+```
 
 Your phone will reboot and after it has started up you will see a new app in the menu called SilentSMS
 
@@ -33,10 +36,13 @@ How to remove it?
 1. Open up an adb shell
 
 2. Enter the following commands:
-```shell@android:/ # su
+
+```
+shell@android:/ # su
 shell@android:/ # mount -o rw,remount /system
 shell@android:/ # rm /system/app/SilentSMS-signed.apk
-shell@android:/ # reboot```
+shell@android:/ # reboot
+```
 
 Troubleshooting
 ===
