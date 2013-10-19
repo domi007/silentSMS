@@ -49,3 +49,8 @@ Troubleshooting
 
 1. I can't see the app in the menu
 You need to turn off code signing or use Cyanogenmod. If you use the signed APK on a ROM other than Cyanogenmod the app will simply not show up (because of incorrect signatures) or if you use the unsigned APK when code signing is enabled again the app will not show up (because of incorrect signatures)
+
+
+One more thing
+===
+I left the 'Message' text field in the app, but naturally it doesn't make any difference what you put in it (silent SMS means nothing will show up on the recipient phone, so your actual 'text' will go to /dev/null).
