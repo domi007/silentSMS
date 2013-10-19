@@ -47,7 +47,8 @@ shell@android:/ # reboot
 Troubleshooting
 ===
 
-1. I can't see the app in the menu
+**I can't see the app in the menu...**
+
 You need to turn off code signing or use Cyanogenmod. If you use the signed APK on a ROM other than Cyanogenmod the app will simply not show up (because of incorrect signatures) or if you use the unsigned APK when code signing is enabled again the app will not show up (because of incorrect signatures)
 
 
