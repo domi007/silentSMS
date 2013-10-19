@@ -1,7 +1,7 @@
 SilentSMS
 ===
 
-An Android-app that can send silent text messages and tell you if the other party received them (= the recipient phone is turned on). It uses reflection and has quite an ugly code in it, but it works ;-). If you want to make it better, fork it and send me a pull request.
+An Android-app that can send silent text messages and tell you if the other party received them (= the recipient phone is turned on). It uses reflection and has quite an ugly piece of code in it, but it works ;-). If you want to make it better, fork it and send me a pull request.
 
 It also includes a little telnet-like service which could be used to send silent text messages from any device that can connect to your Android phone (your PC via USB tethering, your other Android device via WiFi tethering etc.). This feature is used for sending automated text messages together with the tmsi-buster tool creating an easy and automated way to uncover a phone number's TMSI.
 
