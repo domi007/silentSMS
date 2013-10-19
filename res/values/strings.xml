@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SilentSMS</string>
+    <string name="recipient">Recipient phone number:</string>
+    <string name="message">Message:</string>
+    <string name="send">Send SMS</string>
+    <string name="listening">Listening on port %d</string>
+	 <string name="connected">Client connected from %s</string>
+	 <string name="exception">An exception was thrown: %s</string>
+	 <string name="info" >[INFO] %s</string>
+	 <string name="error">[error] %s</string>
+</resources>
