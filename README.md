@@ -5,7 +5,7 @@ An Android-app that can send silent text messages and tell you if the other part
 
 It also includes a little telnet-like service which could be used to send silent text messages from any device that can connect to your Android phone (your PC via USB tethering, your other Android device via WiFi tethering etc.). This feature is used for sending automated text messages together with the tmsi-buster tool creating an easy and automated way to uncover a phone number's TMSI.
 
-This code is for educational purposes only, there is no warranty on it, nothing. The author is not responsible for how this code is being used. It's released under GPL (I would have used MIT license, but since there are some paid silent SMS apps I don't want anyone to pay for this code, so GPL it is).
+This code is for educational purposes only, there is no warranty on it, nothing. The author is not responsible for how this code is being used. It's released under GPL (I would have used MIT license, but since there are some paid silent SMS apps I don't want anyone to pay for this code, so GPL it is). I haven't checked this code with anyone else yet, so I am going to say it is alpha quality code, a little bit better than a PoC. You have been warned ;-).
 
 I would like to express my greatest gratitude to Vorex & Kaiyou from Virtualabs for creating ZeroSMS which is the base of SilentSMS. Also a shout out to dnet for creating nfcat which served as a base for the network-service part of the app.
 
